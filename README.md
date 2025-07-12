@@ -1,7 +1,3 @@
-Tabii, tüm README dosyasını baştan sona, performans sonuçlarını da içinde barındıracak şekilde aşağıda hazırladım. İstersen direkt kullanabilirsin:
-
----
-
 # Diyabet Tahmini için Karar Ağacı Modeli
 
 ## Proje Hakkında
